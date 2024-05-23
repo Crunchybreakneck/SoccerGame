@@ -4,3 +4,11 @@ body {
   padding: 25px;
   font-family: sans-serif;
 }
+
+#Game {
+    border: 1px solid #fff;
+}
+
+.center {
+   text-align: center;
+}
